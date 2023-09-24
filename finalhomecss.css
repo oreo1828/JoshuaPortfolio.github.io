@@ -400,5 +400,9 @@ textarea.contact-form-text{
 .text{
     font-size: 15px;
   }
+  .about-section{
+    padding: 0;
+    transition: all .55s ease;
+  }
 
 }
