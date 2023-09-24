@@ -397,6 +397,8 @@ textarea.contact-form-text{
 }
 
 @media(max-width: 680px){
-
+.text{
+    font-size: 15px;
+  }
 
 }
